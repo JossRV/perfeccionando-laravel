@@ -16,6 +16,7 @@ export default defineConfig({
     }
 });
 
+// instalacion y uso de bootstrap y vite
 
 // instalacion de bootstrap con vita
 // instalar bootstrap
